@@ -340,7 +340,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jn_K5ucYfSR-Frp_HvuO-91" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1190" width="430" height="370" as="geometry" />
+          <mxGeometry x="240" y="1180" width="430" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="jn_K5ucYfSR-Frp_HvuO-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=none;" edge="1" parent="1" source="jn_K5ucYfSR-Frp_HvuO-92" target="jn_K5ucYfSR-Frp_HvuO-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jn_K5ucYfSR-Frp_HvuO-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=none;" edge="1" parent="1" source="jn_K5ucYfSR-Frp_HvuO-92" target="jn_K5ucYfSR-Frp_HvuO-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="1460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jn_K5ucYfSR-Frp_HvuO-92" value="vérifier le stock" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="1420" width="107.5" height="50" as="geometry" />

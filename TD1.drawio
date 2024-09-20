@@ -127,7 +127,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jn_K5ucYfSR-Frp_HvuO-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="160" y="110" width="510" height="470" as="geometry" />
+          <mxGeometry x="160" y="110" width="510" height="450" as="geometry" />
         </mxCell>
         <mxCell id="jn_K5ucYfSR-Frp_HvuO-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jn_K5ucYfSR-Frp_HvuO-28" target="jn_K5ucYfSR-Frp_HvuO-28">
           <mxGeometry relative="1" as="geometry" />
@@ -140,6 +140,12 @@
             <mxPoint x="400" y="350" as="sourcePoint" />
             <mxPoint x="450" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jn_K5ucYfSR-Frp_HvuO-32" value="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="50" y="20" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jn_K5ucYfSR-Frp_HvuO-33" value="3" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="60" y="600" width="50" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

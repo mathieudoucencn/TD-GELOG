@@ -340,7 +340,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jn_K5ucYfSR-Frp_HvuO-91" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1200" width="430" height="370" as="geometry" />
+          <mxGeometry x="240" y="1190" width="430" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="jn_K5ucYfSR-Frp_HvuO-92" value="vérifier le stock" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1420" width="107.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jn_K5ucYfSR-Frp_HvuO-95" value="include" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.967;exitY=0.64;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.065;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jn_K5ucYfSR-Frp_HvuO-73" target="jn_K5ucYfSR-Frp_HvuO-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1360" as="sourcePoint" />
+            <mxPoint x="440" y="1310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
